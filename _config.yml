@@ -10,12 +10,12 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "in South Korea"
+title                    : "KangHeeHEE Log"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "We live only once. I want to do what I like!" # site tagline that appears below site title in masthead
 name                     : "KangHeeHEE"
 description              : "We live only once. I want to do what I likes :-)"
 url                      : "https://hy-lee-d.github.io"
@@ -88,10 +88,10 @@ analytics:
     anonymize_ip         : # true, false (default)
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kang Hee Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an **priceless** person. (ㅇ.<)"
+  location         : "코로나 확진으로 현재 *경기도 연수원*에 격리 으흐흑"
   email            :
   links:
     - label: "Email"
