@@ -22,7 +22,7 @@ url                      : "https://hy-lee-d.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/avatar.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -89,14 +89,14 @@ analytics:
 # Site Author
 author:
   name             : "Kang Hee Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **priceless** person. ㅇ.<*"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am a **priceless** person. ㅇ.<*"
   location         : "*경기도 연수원* 격리중 으흐흑"
   email            : "gydus94@korea.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:gydus94@korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,7 +111,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://instagram.com/ihyoyoun"
 # Site Footer
 footer:
   links:
