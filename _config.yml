@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kang heeHEE Log"
+title                    : "Kang Hee Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kang hee"
 description              : "We live only once. I want to do what I like! :-)"
 url                      : "https://hy-lee-d.github.io"
 baseurl                  : "" 
-repository               : #"hy-lee-d/minimal-mistakes"
+repository               : "hy-lee-d/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/avatar.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
